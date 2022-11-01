@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpeachText</string>
+    <string name="hello_world_this_is_a_demo_for_text_to_speech">Hello World! This is a demo for Text To Speech.</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="press_to_speak_the_entered_text">Press to Speak the Entered Text</string>
+</resources>
